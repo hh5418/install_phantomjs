@@ -1,0 +1,38 @@
+
+
+
+	安装的问题：
+		https://blog.csdn.net/weixin_41961559/article/details/105482953
+		
+		
+	
+	安装网址：
+		https://phantomjs.org/download.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
